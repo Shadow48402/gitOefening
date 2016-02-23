@@ -1,1 +1,2 @@
-Dit is een textbestand. 
+dit is zomaar een tekstbestandje, die ik nu heb
+aangepast
